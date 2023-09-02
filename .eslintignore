@@ -1,0 +1,7 @@
+public/
+build/
+package-lock.json
+node_modules
+package.json
+eslintrc
+README.md
